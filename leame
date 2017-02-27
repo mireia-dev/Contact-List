@@ -1,0 +1,5 @@
+Versión 2_Proyecto AgendaContactos
+
+- Añadido el atributo Nick
+- Creada la tabla pseudonimos en la BBDD conectada con contactos por id_contacto
+- Ahora el nick además de mostrarse en los listados, puede modificarse y añadirse
